@@ -125,7 +125,7 @@ function ProductModal({ product, onClose }: { product: typeof products[0]; onClo
         <div className="flex items-center justify-between">
           <span className="text-white font-bold text-lg">{product.price}</span>
           <a
-            href="https://calendly.com"
+            href="https://calendly.com/aliul-mds/30min"
             target="_blank"
             rel="noopener noreferrer"
             className="bg-blue-600 hover:bg-blue-500 text-white font-semibold px-6 py-2.5 rounded-full text-sm transition"
@@ -165,7 +165,7 @@ function ServiceAccordion({ service }: { service: typeof services[0] }) {
             ))}
           </ul>
           <a
-            href="https://calendly.com"
+            href="https://calendly.com/aliul-mds/30min"
             target="_blank"
             rel="noopener noreferrer"
             className="inline-block mt-5 bg-blue-600 hover:bg-blue-500 text-white font-semibold px-5 py-2 rounded-full text-sm transition"
@@ -192,7 +192,7 @@ export default function Home() {
             naidge<span className="text-blue-400">.</span>
           </span>
           <a
-            href="https://calendly.com"
+            href="https://calendly.com/aliul-mds/30min"
             target="_blank"
             rel="noopener noreferrer"
             className="bg-blue-600 hover:bg-blue-500 text-white text-sm font-semibold px-5 py-2 rounded-full transition"
@@ -219,7 +219,7 @@ export default function Home() {
           </p>
           <div className="flex flex-col sm:flex-row gap-4 justify-center">
             <a
-              href="https://calendly.com"
+              href="https://calendly.com/aliul-mds/30min"
               target="_blank"
               rel="noopener noreferrer"
               className="bg-blue-600 hover:bg-blue-500 text-white font-bold px-8 py-4 rounded-full text-base transition"
@@ -350,7 +350,7 @@ export default function Home() {
             <p className="text-slate-400 mb-8">Book a free 15-minute call or reach out directly. No commitment required.</p>
             <div className="flex flex-col sm:flex-row gap-4 justify-center">
               <a
-                href="https://calendly.com"
+                href="https://calendly.com/aliul-mds/30min"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="bg-blue-600 hover:bg-blue-500 text-white font-bold px-8 py-4 rounded-full transition"
